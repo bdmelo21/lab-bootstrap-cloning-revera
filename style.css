@@ -1,0 +1,114 @@
+.row1 {
+    background-color: white;
+    height: 90px;
+    width: 1440px;
+}
+.row2 { 
+}
+.container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.row3 {
+    width: 1200px;
+    height: 336px;
+    background-color:#ed564b;
+    border-top: 5px solid #f96b61;
+    border-bottom: 5px solid #f96b61;
+    padding: 40px 0px;
+    display: flex;
+    justify-content: center;
+}
+.yoo {
+    display:flex;
+    justify-content: space-around;
+}
+.row4 {
+    margin-bottom: 20px;
+    height: 340px;
+}
+.row5{
+    margin-top: 20px;
+    
+}
+.navbar-brand {
+    width: 323px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font: Helvetica;
+    text-decoration: none;
+    color:black;
+    font-weight: bolder;
+}
+.col-sm-8 {
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    
+}
+.col-sm-8 > li {
+    list-style-type: none;
+    padding:19px 10px 19px 10px;
+}
+.home {
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: tomato;
+}
+.menu{
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: grey;
+}
+.col-sm-4 {
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-sm-4 > h3 {
+    font-size: 24px;
+    text-align: center;
+}
+.col-sm-4 > p {
+    font-size: 14px;
+    text-align: center;
+}
+.portfolio-projects {
+    margin-top: 0px;
+    margin-bottom: 30px;
+    color: grey; 
+    font-size: 14px; 
+    margin-left: 15px;
+}
+.latest-projects {
+    margin-left: 15px;
+    margin-top: 60px;
+}
+.border {
+    margin-left: 15px;
+    margin-right: 8px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #dfdfdf;
+}
+.images {
+    height: 141px;
+    width: 212px;
+    display:flex;
+    justify-content: space-around;
+}
+.libero {
+    width:212px;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+}
